@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+
+Testing out Github for the first time.
+yada
+yada
+yada
+
+skipped the above line
